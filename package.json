@@ -3,17 +3,20 @@
   "displayName": "Ultimate Dark Ever",
   "description": "That's a theme inspired by Everforest",
   "version": "0.0.1",
+  "publisher": "PeDaniel-cerpa",
+  "author": {
+    "name": "Daniel Cerpa",
+    "url": "https://github.com/PeDaniel-cerpa"
+  },
   "engines": {
     "vscode": "^1.125.0"
   },
-  "categories": [
-    "Themes"
-  ],
+  "categories": ["Themes"],
   "repository": {
     "type": "git",
     "url": "https://github.com/PeDaniel-cerpa/Ultimate-Dark-Ever"
   },
-  "icon": "./images/icon.png",
+  "icon": "images/icon.png",
   "contributes": {
     "themes": [
       {

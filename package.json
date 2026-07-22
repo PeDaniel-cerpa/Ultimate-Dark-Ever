@@ -1,0 +1,21 @@
+{
+  "name": "ultimate-dark-ever",
+  "displayName": "Ultimate Dark Ever",
+  "description": "That's a theme inspired by Everforest",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.125.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ultimate Dark Ever",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ultimate Dark Ever-color-theme.json"
+      }
+    ]
+  }
+}
